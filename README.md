@@ -1,3 +1,6 @@
+![github](https://github.com/user-attachments/assets/659eff79-31e3-4df2-9cf1-80c408f635f5)
+
+
 Hi, I'm Yasmina!
 
 - 🔭 I’m a newbie in this field and I have been learning backend development course for approximately 6 months.
