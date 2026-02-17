@@ -1,16 +1,12 @@
-## Hi there 👋
+Hi, I'm Yasmina!
 
-<!--
-**yasminatolibova/yasminatolibova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m a newbie in this field and I have been learning backend development course for approximately 6 months.
+- 🌱 I wanna learn about Cloud, Docker, and also DevOps skills in the future.
+- 💬 Ask me about Python, Django and DRF.
+- I am currently working on real projects [project](https://github.com/yasminatolibova/instagram-clone.git)<br/>
+- 📫 How to reach me: yasminatolibova837@gmail.com
+- -I also advise to new developers to watch tutorials of [Magdeline Huang](@MagdelineHuang)<br/>
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats --> 
+![Yasmina's GitHub status](https://github-readme-stats.vercel.app/api?username=yasminatolibova&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminatolibova&layout=compact&theme=radical)
