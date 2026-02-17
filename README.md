@@ -1,4 +1,4 @@
-![github](https://github.com/user-attachments/assets/659eff79-31e3-4df2-9cf1-80c408f635f5)
+![Uploading image.png…]()
 
 
 Hi, I'm Yasmina!
