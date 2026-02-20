@@ -13,7 +13,7 @@ Hi, I'm Yasmina!
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats --> 
 ![Yasmina's GitHub status](https://github-readme-stats.vercel.app/api?username=yasminatolibova&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminatolibova&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminatolibova&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chillyof_) 
